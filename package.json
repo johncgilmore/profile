@@ -1,0 +1,25 @@
+{
+  "name": "developer_profile",
+  "version": "1.0.0",
+  "description": "a simple bare bones profile that is for now self hosted and saved to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johncgilmore/profile.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "developer",
+    "profile"
+  ],
+  "author": "johncgilmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johncgilmore/profile/issues"
+  },
+  "homepage": "https://github.com/johncgilmore/profile#readme"
+}
