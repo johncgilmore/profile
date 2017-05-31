@@ -2,7 +2,7 @@
   "name": "developer_profile",
   "version": "1.0.0",
   "description": "a simple bare bones profile that is for now self hosted and saved to github",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "test"
   },
