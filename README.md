@@ -3,7 +3,7 @@
 
 Here's how this looks at my local:host8888
 
-![locallyHostedSinceaFewSecondsAgo]()
+![locallyHostedSinceaFewSecondsAgo](https://dl.airtable.com/XlEf0HQvTNutGGrIuuJi_full_profile.gif)
 
 
 and here is the text version of the current html (which I'm "responseWrite"ing tline by line right now):
